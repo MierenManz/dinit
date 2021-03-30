@@ -2,7 +2,7 @@
 
 ## Install the script with this command
 
-`deno install --allow-read --allow-write --allow-run https://raw.githubusercontent.com/MierenManz/dinit/main/dinit.ts`
+`deno install --allow-read --allow-write --allow-run https://crux.land/2Jq2B2`
 
 ## How to use
 
